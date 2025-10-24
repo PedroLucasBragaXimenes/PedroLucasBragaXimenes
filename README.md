@@ -4,8 +4,10 @@
 
 ### 🧑‍💻 Sobre mim
 - 💻 Desenvolvedor com formação em ADS
-- 🌐 Apaixonado por criar projetos e explorar novas tecnologias
-- 🚀 Sempre buscando evoluir e aprender mais
+- 🌐 Técnico em Redes de Computadores
+- 🚀 Analista de Suporte de TI
+- 🖥️ Service Desk/Help Desk
+- 📱 Manutenção de Celulares
 
 ---
 
@@ -30,18 +32,8 @@
 ### 🏆 Minhas Conquistas
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=PedroLucasBragaXimenes&theme=dracula&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=PedroLucasBragaXimenes&theme=dracula&margin-w=10" />
 
 </div>
 
 ---
-
-### 🐍 Snake do GitHub
-<div align="center">
-  <img src="https://github.com/PedroLucasBragaXimenes/PedroLucasBragaXimenes/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-🌟 _Obrigado por visitar meu perfil!_
-
