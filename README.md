@@ -5,14 +5,14 @@
 ### 🧑‍💻 Sobre mim
 - 💻 Desenvolvedor com formação em ADS
 - 🌐 Técnico em Redes de Computadores
-- 🚀 Analista de Suporte de TI
+- 🖱️ Analista de Suporte Técnico
 - 🖥️ Service Desk/Help Desk
 - 📱 Manutenção de Celulares
 
 ---
 
 ### 🌍 Onde me encontrar
-<a href="https://www.linkedin.com/in/pedrolucasbragaximenes/" target="_blank">
+<a href="https://www.linkedin.com/in/pedro-lucas-7ba20a314/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
