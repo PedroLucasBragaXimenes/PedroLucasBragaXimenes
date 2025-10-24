@@ -19,17 +19,6 @@
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
-
-<style>
-@keyframes react-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-.react-icon {
-  animation: react-spin 6s linear infinite;
-}
-</style>
-
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
