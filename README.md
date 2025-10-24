@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Pedro Lucas, tenho 18 anos e sou natural do Ceará. Concluí o ensino médio na EEEP Mário Alencar, com o curso técnico em Redes de Computadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifor. Sou um entusiasta de tecnologia e compartilho meu conhecimento através de mini projetos que insiro em meu github.
+Me chamo Pedro Lucas, tenho 18 anos e sou natural do Ceará. Concluí o ensino médio na EEEP Mário Alencar, com o curso técnico em Redes de Computadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Unifor e trabalhando como Jovem Aprendiz na empresa Tijuca Alimentos na área de Tecnologia da Informação. Sou um entusiasta de tecnologia e compartilho meu conhecimento através de mini projetos que insiro em meu github.
 
 
 ### 🤖 Linguagens e Tecnologias
