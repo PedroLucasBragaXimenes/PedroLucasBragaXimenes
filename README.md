@@ -32,8 +32,8 @@
 
 ### 🏆 Minhas Conquistas
 <div align="center">
+![Pedro Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroLucasBragaXimenes&show_icons=true&theme=tokyonight)
 
-<img src="https://github-profile-trophy.vercel.app/?username=PedroLucasBragaXimenes&theme=dracula&margin-w=10" />
 
 </div>
 
