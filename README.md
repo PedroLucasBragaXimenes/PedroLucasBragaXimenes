@@ -33,7 +33,7 @@
 ### 🏆 Minhas Conquistas
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PedroLucasBragaXimenes&theme=dracula&margin-w=10"/>
+<img />
 
 </div>
 
